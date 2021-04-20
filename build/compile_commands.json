@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/adije/dev/Regev/build",
-  "command": "/bin/g++-9    -g   -o CMakeFiles/Regev.dir/main.cpp.o -c /home/adije/dev/Regev/main.cpp",
-  "file": "/home/adije/dev/Regev/main.cpp"
-}
-]
