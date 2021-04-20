@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adije/dev/Regev/Regev/Regev.h
+NTL/ZZ.h
+-
+NTL/RR.h
+-
+iostream
+-
+NTL/matrix.h
+-
+../myMat.h
+/home/adije/dev/Regev/myMat.h
+
+/home/adije/dev/Regev/main.cpp
+iostream
+-
+NTL/ZZ.h
+-
+Regev/Regev.h
+/home/adije/dev/Regev/Regev/Regev.h
+
+/home/adije/dev/Regev/myMat.h
+NTL/matrix.h
+-
+iostream
+-
+
